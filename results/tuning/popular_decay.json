@@ -1,0 +1,72 @@
+{
+ "best_value": 0.017906151360730867,
+ "params": {
+  "half_life": 60.0
+ },
+ "trials": [
+  {
+   "trial": 0,
+   "value": 0.0125462611,
+   "state": "COMPLETE",
+   "half_life": 14.0,
+   "best_epoch": null,
+   "seconds": 0.607641876
+  },
+  {
+   "trial": 1,
+   "value": 0.0153073146,
+   "state": "COMPLETE",
+   "half_life": 240.0,
+   "best_epoch": null,
+   "seconds": 0.1131596558
+  },
+  {
+   "trial": 2,
+   "value": 0.0112642497,
+   "state": "COMPLETE",
+   "half_life": 7.0,
+   "best_epoch": null,
+   "seconds": 0.0956174789
+  },
+  {
+   "trial": 3,
+   "value": 0.0120398087,
+   "state": "COMPLETE",
+   "half_life": 960.0,
+   "best_epoch": null,
+   "seconds": 0.073119364
+  },
+  {
+   "trial": 4,
+   "value": 0.0176792389,
+   "state": "COMPLETE",
+   "half_life": 30.0,
+   "best_epoch": null,
+   "seconds": 0.109201611
+  },
+  {
+   "trial": 5,
+   "value": 0.0163185637,
+   "state": "COMPLETE",
+   "half_life": 120.0,
+   "best_epoch": null,
+   "seconds": 0.094419003
+  },
+  {
+   "trial": 6,
+   "value": 0.0179061514,
+   "state": "COMPLETE",
+   "half_life": 60.0,
+   "best_epoch": null,
+   "seconds": 0.1237283191
+  },
+  {
+   "trial": 7,
+   "value": 0.0137172371,
+   "state": "COMPLETE",
+   "half_life": 480.0,
+   "best_epoch": null,
+   "seconds": 0.080604394
+  }
+ ]
+}

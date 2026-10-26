@@ -1,0 +1,14 @@
+# Python 3.12. On Linux with an NVIDIA GPU install torch from the PyTorch index that
+# matches your driver, e.g.:
+#   pip install torch==2.14.1 --index-url https://download.pytorch.org/whl/cu126
+numpy==2.5.4
+scipy==1.18.1
+pandas==3.1.0
+torch==2.14.1
+matplotlib==3.11.2
+optuna==5.0.0
+# running the notebook headless and the tests
+ipykernel==7.4.0
+nbconvert==7.17.2
+nbformat==5.11.1
+pytest==9.1.1

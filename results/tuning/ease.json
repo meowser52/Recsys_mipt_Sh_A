@@ -1,0 +1,72 @@
+{
+ "best_value": 0.012401680509563057,
+ "params": {
+  "l2": 30.0
+ },
+ "trials": [
+  {
+   "trial": 0,
+   "value": 0.0124016805,
+   "state": "COMPLETE",
+   "l2": 30.0,
+   "best_epoch": null,
+   "seconds": 7.979546404
+  },
+  {
+   "trial": 1,
+   "value": 0.0120052354,
+   "state": "COMPLETE",
+   "l2": 3000.0,
+   "best_epoch": null,
+   "seconds": 7.9485393779
+  },
+  {
+   "trial": 2,
+   "value": 0.0114875699,
+   "state": "COMPLETE",
+   "l2": 10.0,
+   "best_epoch": null,
+   "seconds": 7.0102772731
+  },
+  {
+   "trial": 3,
+   "value": 0.0122041446,
+   "state": "COMPLETE",
+   "l2": 30000.0,
+   "best_epoch": null,
+   "seconds": 5.65012882
+  },
+  {
+   "trial": 4,
+   "value": 0.0123334706,
+   "state": "COMPLETE",
+   "l2": 100.0,
+   "best_epoch": null,
+   "seconds": 7.107827659
+  },
+  {
+   "trial": 5,
+   "value": 0.0119666413,
+   "state": "COMPLETE",
+   "l2": 1000.0,
+   "best_epoch": null,
+   "seconds": 7.6135257811
+  },
+  {
+   "trial": 6,
+   "value": 0.0121091826,
+   "state": "COMPLETE",
+   "l2": 300.0,
+   "best_epoch": null,
+   "seconds": 7.6157221419
+  },
+  {
+   "trial": 7,
+   "value": 0.0122788427,
+   "state": "COMPLETE",
+   "l2": 10000.0,
+   "best_epoch": null,
+   "seconds": 6.7116529401
+  }
+ ]
+}
