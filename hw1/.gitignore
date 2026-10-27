@@ -1,0 +1,38 @@
+# data (downloaded by the notebook from the original source)
+data/
+*.csv.gz
+*.jsonl.gz
+*.parquet
+*.pkl
+
+# environments
+.venv/
+venv/
+env/
+.env
+
+# caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.mypy_cache/
+.ruff_cache/
+
+# heavy artefacts
+*.pt
+*.pth
+*.npy
+*.npz
+checkpoints/
+logs/
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
+.claude/
+
+# quick smoke-test runs of the notebook
+results_smoke/
+smoke.ipynb
